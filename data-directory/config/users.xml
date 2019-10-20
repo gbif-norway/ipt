@@ -1,0 +1,143 @@
+<users>
+  <user email="einar.timdal@nhm.uio.no" firstname="Einar" lastname="Timdal" role="Publisher" lastLogin="2012-07-31 09:22:53.961 UTC">
+    <password>TO2F0ccpmgHsAzX/DEEgSw==</password>
+  </user>
+  <user email="vegar.bakkestuen@nhm.uio.no" firstname="Vegar" lastname="Bakkestuen" role="User" lastLogin="2012-08-02 12:11:28.762 UTC">
+    <password>mwMK2jKBUas=</password>
+  </user>
+  <user email="dag.endresen@nhm.uio.no" firstname="Dag" lastname="Endresen" role="Admin" lastLogin="2019-10-15 12:44:15.176 UTC">
+    <password>hA+08F366Jonov3y9q7c+A==</password>
+  </user>
+  <user email="christian.svindseth@nhm.uio.no" firstname="Christian" lastname="Svindseth" role="Admin" lastLogin="2018-10-10 10:21:08.769 UTC">
+    <password>1Ls9CL9+HobhCfPk1TnYXp/0m4iK6cV9</password>
+  </user>
+  <user email="l.e.johannessen@nhm.uio.no" firstname="Lars Erik" lastname="Johannessen" role="Manager" lastLogin="2019-01-09 12:29:11.135 UTC">
+    <password>BQpBC8IWnVm3/JVk8GKlrQ==</password>
+  </user>
+  <user email="a.h.ronning@nhm.uio.no" firstname="Ann-Helen" lastname="Rønning" role="Manager" lastLogin="2018-05-31 12:23:18.616 UTC">
+    <password>3B7sbR2Vg9md/ATzZW12wA==</password>
+  </user>
+  <user email="snorre.henriksen@artsdatabanken.no" firstname="Snorre" lastname="Henriksen" role="Manager" lastLogin="2019-01-21 10:52:21.242 UTC">
+    <password>7S1pNXhtFIuXynsKxQkApg==</password>
+  </user>
+  <user email="hsotelo@cgiar.org" firstname="Steven" lastname="Sotelo" role="Manager">
+    <password>KNJ+tjqOT9Z3pqKy5wyamg==</password>
+  </user>
+  <user email="anders.finstad@ntnu.no" firstname="Anders" lastname="Finstad" role="Admin" lastLogin="2018-12-07 12:27:25.156 UTC">
+    <password>hOcbcf4XuMGCF4RlwsaEhA==</password>
+  </user>
+  <user email="nils.valland@artsdatabanken.no" firstname="Nils" lastname="Valland" role="Publisher" lastLogin="2017-04-04 11:16:55.170 UTC">
+    <password>gGl5mt6NRXvuWETO7gmZbg==</password>
+  </user>
+  <user email="vidar.bakken@usit.uio.no" firstname="Vidar" lastname="Bakken" role="Admin" lastLogin="2019-10-19 08:48:35.238 UTC">
+    <password>ysu5EO2DVQoLdAGAS6lqJw==</password>
+  </user>
+  <user email="wouter.koch@artsdatabanken.no" firstname="Wouter" lastname="Koch" role="Admin" lastLogin="2016-09-08 16:44:04.710 UTC">
+    <password>IAMBZdEycbL68r6Rw0AUDg==</password>
+  </user>
+  <user email="jostein.kjarandsen@uit.no" firstname="Jostein" lastname="Kjærandsen" role="Publisher" lastLogin="2016-09-14 12:40:59.915 UTC">
+    <password>s/3NBPVnU1I6sD77+QFL4A==</password>
+  </user>
+  <user email="heini.e.rama@uit.no" firstname="Heini Emilia" lastname="Rämä" role="Manager" lastLogin="2016-10-17 06:56:33.33 UTC">
+    <password>bMvYukgZJYRsskhAvdI4dA==</password>
+  </user>
+  <user email="mari.steinert@nmbu.no" firstname="Mari" lastname="Steinert" role="Manager" lastLogin="2019-03-25 13:15:00.884 UTC">
+    <password>WEJAqh4fjZWg9eMWBIFQ2w==</password>
+  </user>
+  <user email="grytnes@uib.no" firstname="John-Arvid" lastname="Grytnes" role="Manager" lastLogin="2016-12-14 14:54:39.952 UTC">
+    <password>qiEVJV1E3E04469v3S2quw==</password>
+  </user>
+  <user email="amy.eycott@bio.uib.no" firstname="Amy" lastname="Eycott" role="Manager">
+    <password>yZ13iVhMCvp4PL2XxWlx1g==</password>
+  </user>
+  <user email="heli.fitzgerald@helsinki.fi" firstname="Heli" lastname="Fitzgerald" role="Manager" lastLogin="2017-02-02 14:17:15.551 UTC">
+    <password>p5KT7ol5ISBltxCLcz/BMw==</password>
+  </user>
+  <user email="terje@biofokus.no" firstname="Terje" lastname="Blindheim" role="Manager" lastLogin="2019-03-29 09:27:54.387 UTC">
+    <password>5gSCGWoJP9qrfHOt6NhDXQ==</password>
+  </user>
+  <user email="anna.palme@nordgen.org" firstname="Anna" lastname="Palmé" role="Manager" lastLogin="2017-02-02 14:09:53.864 UTC">
+    <password>v+LrNvw1NqPi9hkn7Vb4pQ==</password>
+  </user>
+  <user email="i.thormann@cgiar.org" firstname="Imke" lastname="Thormann" role="Manager" lastLogin="2017-11-29 12:21:51.12 UTC">
+    <password>ADF9DP4+3mbY/JALZOxkMw==</password>
+  </user>
+  <user email="h.gaisberger@cgiar.org" firstname="Hannes" lastname="Gaisberger" role="Manager" lastLogin="2017-06-09 08:31:00.279 UTC">
+    <password>OHgTsRmrGDXRNHkScLzEeQ==</password>
+  </user>
+  <user email="jan.svensson@nordgen.org" firstname="Jan" lastname="Svensson" role="Manager" lastLogin="2017-11-22 09:07:05.810 UTC">
+    <password>zU2CEIzr6ZDWPY8O/08J8w==</password>
+  </user>
+  <user email="eivind.oug@niva.no" firstname="Eivind" lastname="Oug" role="Manager">
+    <password>UOxzE+AaTWs6slOPNKZqQg==</password>
+  </user>
+  <user email="anders.bryn@nhm.uio.no" firstname="Anders" lastname="Bryn" role="Manager" lastLogin="2017-09-23 06:07:25.802 UTC">
+    <password>0LLcmADRbvuEt7RgqwizTtuf8+Xmw0CS</password>
+  </user>
+  <user email="anneleen.kool@nhm.uio.no" firstname="Anneleen" lastname="Kool" role="Manager" lastLogin="2018-03-09 13:31:28.498 UTC">
+    <password>HpdubmGr4ZEK4wmKLLF5Pg==</password>
+  </user>
+  <user email="conrad@radgivende-biologer.no" firstname="Conrad" lastname="Blanck" role="Manager" lastLogin="2018-11-29 12:41:58.72 UTC">
+    <password>WfzTMVHPO7W8EaQEMlYqDA==</password>
+  </user>
+  <user email="k.r.bjorklund@nhm.uio.no" firstname="Kjell R." lastname="Bjørklund" role="Manager">
+    <password>bY0d/NSsxAPxd8ppkM7fCw==</password>
+  </user>
+  <user email="geir@ecofact.no" firstname="Geir" lastname="Arnesen" role="Manager" lastLogin="2018-01-03 12:08:43.101 UTC">
+    <password>bXyX7X7XV7vnvANxpkBYtHLcrfSth/C0</password>
+  </user>
+  <user email="stein.hoem@artsdatabanken.no" firstname="Stein" lastname="Hoem" role="Admin" lastLogin="2019-04-04 08:10:51.33 UTC">
+    <password>iVoW8CmMJwPK+16i8C+b/oZhlIy0yGd+</password>
+  </user>
+  <user email="alf.tore.mjoes@museumstavanger.no" firstname="Alf Tore" lastname="Mjøs" role="Publisher" lastLogin="2019-01-15 14:43:16.709 UTC">
+    <password>MiPYheQlF5o=</password>
+  </user>
+  <user email="karl-bis@online.no" firstname="Karl-Birger" lastname="Strann" role="Manager" lastLogin="2018-11-29 12:49:28.435 UTC">
+    <password>WBZsgm0IiYE=</password>
+  </user>
+  <user email="kjetil.aakra@mtmu.no" firstname="Kjetil" lastname="Åkra" role="Publisher" lastLogin="2018-11-28 09:35:24.998 UTC">
+    <password>ehhc4M6xT5lLg1AS27spHQ==</password>
+  </user>
+  <user email="s-kobro@online.no" firstname="Sverre" lastname="Kobro" role="Manager" lastLogin="2018-12-09 19:44:17.984 UTC">
+    <password>YcmcKxD8lN0QJxrQKBvsrw==</password>
+  </user>
+  <user email="vidar.selas@nmbu.no" firstname="Vidar" lastname="Selås" role="Manager" lastLogin="2019-01-02 18:29:15.150 UTC">
+    <password>dFS/2ziWvdlN0iT6nI3kzQ==</password>
+  </user>
+  <user email="kristian.hassel@ntnu.no" firstname="Kristian" lastname="Hassel" role="Manager" lastLogin="2018-12-11 10:50:49.193 UTC">
+    <password>Ou8v1478reQjwb4vuNZjTw==</password>
+  </user>
+  <user email="ole.j.sorensen@nord.no" firstname="Ole Jakob" lastname="Sørensen" role="Manager" lastLogin="2019-04-12 07:58:40.356 UTC">
+    <password>1YACdRoOHKCdw3ASY17lCg==</password>
+  </user>
+  <user email="r.s.johaadien@nhm.uio.no" firstname="Rukaya" lastname="Johaadien" role="Admin" lastLogin="2019-10-20 12:11:51.700 UTC">
+    <password>3IEh+COTC6MEtDpEP/Sw6w==</password>
+  </user>
+  <user email="palgunnar.ellingsen@unis.no" firstname="Pål Gunnar" lastname="Ellingsen" role="Publisher" lastLogin="2019-06-19 08:32:47.251 UTC">
+    <password>fS8OjDq+h5hi0nhgcLLHYg==</password>
+  </user>
+  <user email="b.p.lofall@nhm.uio.no" firstname="Bjørn Petter " lastname="Løfall" role="Manager">
+    <password>3P0oV0be45xXEEGc2uCg2w==</password>
+  </user>
+  <user email="c.k.aas@nhm.uio.no" firstname="Chistian" lastname="Aas" role="Manager" lastLogin="2019-03-11 12:54:12.748 UTC">
+    <password>FWGkWTeTdk4289wpgjb23w==</password>
+  </user>
+  <user email="wenche.eikrem@nhm.uio.no" firstname="Wenche" lastname="Eikrem" role="Manager">
+    <password>HbAd3l1QoNGfDn9MmMXUpw==</password>
+  </user>
+  <user email="per.ihlen@asplanviak.no" firstname="Per Gerhard" lastname="Ihlen" role="Manager" lastLogin="2019-04-29 13:06:09.965 UTC">
+    <password>shGN/2Vfci0=</password>
+  </user>
+  <user email="mahdieh.tourani@nmbu.no" firstname="Mahdieh" lastname="Tourani" role="Manager" lastLogin="2019-06-06 14:07:53.977 UTC">
+    <password>AfyeNvXeGvDmdRIZwQ3S0Q==</password>
+  </user>
+  <user email="klaus.hoiland@ibv.uio.no" firstname="Klaus" lastname="Høiland" role="Manager" lastLogin="2019-09-05 21:24:18.157 UTC">
+    <password>g5WAwdGh7r0IvDvVXqc+GA==</password>
+  </user>
+  <user email="amaliya.sh@list.ru" firstname="Shifo" lastname="Kurbonbekova" role="Manager">
+    <password>PsQfBTu3GJfABiiTem8hBQ==</password>
+  </user>
+  <user email="jorn.lokken@naturrestaurering.no" firstname="Jørn Olav" lastname="Løkken" role="Manager" lastLogin="2019-10-18 08:08:33.105 UTC">
+    <password>EzW/pbMjgYLiBcnHaVedOQ==</password>
+  </user>
+</users>

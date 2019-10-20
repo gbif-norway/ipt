@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  ipt:
+    restart: always
+    image: gbif/ipt:2.4.0
+    entrypoint: /srv/ipt/docker-entrypoint.sh
+    expose:
+      - '8080'
+    volumes:
+      - ./data-directory:/srv/ipt
+    environment:
+      - VIRTUAL_HOST=ipt.gbif.no
+      - LETSENCRYPT_HOST=ipt.gbif.no
+
+networks:
+  default:
+    external:
+      name: nginx-proxy

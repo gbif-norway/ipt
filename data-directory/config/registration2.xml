@@ -1,0 +1,604 @@
+<registration>
+  <registry>
+    <hostingOrganisation>
+      <key>f314b0b0-e3dc-11d9-8d81-b8a03c50a862</key>
+      <description>http://www.nhm.uio.no</description>
+      <name>Natural History Museum, University of Oslo</name>
+      <homepageURL>[http://www.nhm.uio.no]</homepageURL>
+      <primaryContactType>technical</primaryContactType>
+      <primaryContactName>Node staff</primaryContactName>
+      <primaryContactEmail>helpdesk@gbif.no</primaryContactEmail>
+      <password>54U9T/9fvyV8Cqk3fyU64Q==</password>
+      <alias>Natural History Museum, University of Oslo</alias>
+      <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+      <nodeName>GBIF Norway</nodeName>
+      <canHost>true</canHost>
+      <agencyAccountPrimary>false</agencyAccountPrimary>
+    </hostingOrganisation>
+    <ipt>
+      <key>c4e83f8a-f24c-4573-a197-f085ca242917</key>
+      <description>GBIF.no IPT</description>
+      <name>GBIF.no</name>
+      <primaryContactType>technical</primaryContactType>
+      <primaryContactName>Helpdesk</primaryContactName>
+      <primaryContactEmail>helpdesk@gbif.no</primaryContactEmail>
+      <organisationKey>f314b0b0-e3dc-11d9-8d81-b8a03c50a862</organisationKey>
+      <created>2012-07-25 07:54:03.385 UTC</created>
+      <wsPassword>6Mg8BEcRSzhIjq6ujeMNYnhmb0U+GRtN</wsPassword>
+    </ipt>
+  </registry>
+  <organisation>
+    <key>033300fa-8e41-45a1-a96c-d9d8a63843a3</key>
+    <description>Agder natural history museum was founded in 1828. It is one of the oldest of Norway’s museums.
+The museum contains botany, zoology and geology departments that focus on collecting material, conservation, research and publication.</description>
+    <name>Agder Natural History Museum</name>
+    <homepageURL>[http://www.naturmuseum.no]</homepageURL>
+    <primaryContactName>Christian Svindseth</primaryContactName>
+    <primaryContactEmail>christian.svindseth@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-22851618</primaryContactPhone>
+    <password>wEihEpWGygo=</password>
+    <alias>Agder Natural History Museum</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>1a6f3173-021f-4370-82e0-0cc68dad5668</key>
+    <description>Nord University (Norwegian: Nord universitet) is a Norwegian state university, which was established by the King-in-Council on 9 October 2015. It is a merger of the former University of Nordland, Nesna University College and Nord-Trøndelag University College, and becomes operational on 1 January 2016. The institution&apos;s central management and administration is based in Bodø, with other study locations in Vesterålen, Mo i Rana, Nesna, Sandnessjøen Levanger, Steinkjer, Namsos and Stjørdal.</description>
+    <name>Nord University</name>
+    <homepageURL>[https://www.nord.no/en]</homepageURL>
+    <primaryContactName>Ole Jakob Sørensen</primaryContactName>
+    <primaryContactEmail>gbif-drift@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-75517000</primaryContactPhone>
+    <password>54FGUU/YvOebqS1J10/2hQ==</password>
+    <alias>Nord University</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>359ba517-ca03-46dd-9583-d2be73085c2f</key>
+    <description>Multiconsult is a multidisciplinary engineering concultancy with c. 1.500 employees operating in Norway, elsewhere in Europe and globally.</description>
+    <name>Multiconsult</name>
+    <homepageURL>[http://www.multiconsult.no/]</homepageURL>
+    <primaryContactName>Ragnhild Heimstad</primaryContactName>
+    <primaryContactEmail>ragnhild.heimstad@multiconsult.no</primaryContactEmail>
+    <primaryContactPhone>+47-91519981</primaryContactPhone>
+    <password>h0mQeHmm6fg=</password>
+    <alias>Multiconsult</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>3f3967bf-ecc7-4455-ba89-4e0ab6d6fd3c</key>
+    <description>The University Museum of Bergen includes three departments for Cultural History, Natural History and Public Outreach. The Natural History collections consist of collections and staff in botany, geology and zoology. The collections are housed in Muséplass 3 (dry collections and type collections), The Science Building at Allegt. 41 (herbarium), and at Arcus at Midttun (ethanol collection). The Natural History collections also include live collections of plants at the museum garden, The Botanical Garden and The Arboretum.</description>
+    <name>University of Bergen</name>
+    <homepageURL>[http://www.uib.no/en]</homepageURL>
+    <primaryContactType>technical</primaryContactType>
+    <primaryContactName>Christian Svindseth</primaryContactName>
+    <primaryContactEmail>gbif-drift@nhm.uio.no</primaryContactEmail>
+    <password>Ur0T7ClL0k3ir+EB+iIOoA==</password>
+    <alias>University of Bergen</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+  </organisation>
+  <organisation>
+    <key>612c9b58-e739-4af4-a038-4b3901fa5649</key>
+    <description>Asplan Viak is one of the largest consultancy companies for engineering and architecture in Norway. Asplan Viak AS have ca 800 employees at 25 locations in Norway.</description>
+    <name>Asplan Viak AS</name>
+    <homepageURL>[http://www.asplanviak.no]</homepageURL>
+    <primaryContactName>Per Gerhard Ihlen</primaryContactName>
+    <primaryContactEmail>Per.Ihlen@asplanviak.no</primaryContactEmail>
+    <primaryContactPhone>+47-98244109</primaryContactPhone>
+    <password>01HkR5MD99g=</password>
+    <alias>Asplan Viak AS</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>625a5522-1886-4998-be46-52c66dd566c9</key>
+    <description>Installed by default, used to indicate resource is not published by any organisation</description>
+    <name>No organisation</name>
+    <password>PsQfBTu3GJfy00mWe2MyOg==</password>
+    <alias>No organisation</alias>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+  </organisation>
+  <organisation>
+    <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+    <description>The Norwegian participant node in the Global Biodiversity Information Facility, GBIF.
+Our main task is to make primary data on biological diversity from the Norwegian collections and observation databases freely available and to coordinate and support GBIF-related activities and data use in Norway.</description>
+    <name>GBIF.no</name>
+    <homepageURL>[https://gbif.no/]</homepageURL>
+    <password>2+dLYu+g9ZA=</password>
+    <alias>GBIF.no</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>689b40c4-ff31-4cd0-83a5-a7a828f1cd92</key>
+    <description>UIT The Arctic University of Norway is the northernmost university of the world. Its location on the edge of the Arctic implies a mission. The Arctic is of increasing global importance. Climate change, the exploitation of Arctic resources and environmental threats are topics of great public concern, and which the University of Tromsø takes special interest in.</description>
+    <name>UiT The Arctic University of Norway</name>
+    <homepageURL>[http://en.uit.no/]</homepageURL>
+    <primaryContactName>Christian Svindseth</primaryContactName>
+    <primaryContactEmail>christian.svindseth@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-22851618</primaryContactPhone>
+    <password>ZyTaOTgZHIMBxEInXO4+Ww==</password>
+    <alias>UiT The Arctic University of Norway</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>6c1dec01-8c82-4341-8584-26c6576d3b69</key>
+    <description>The Department of Biosciences (IBV) has five research sections; Aquatic Biology and Toxicology, Biochemistry and Molecular Biology, Physiology and Cell Biology, Genetics and Evolutionary Biology and Centre for Ecological and Evolutionary Synthesis.
+
+The Department&apos;s research focuses on understanding the fundamental biological processes from the molecular and cellular level to population and ecosystem level.
+
+The Department has 130 employees, and about 175 Ph.D. students and postdocs/researchers. There are at any given time about 650 students divided into undergraduate and graduate level.
+
+The Department of Biosciences (IBV) was established in January 2013, following the merger of the Departments of Molecular Biosciences and Biology.</description>
+    <name>UiO Department of Biosciences</name>
+    <homepageURL>[https://www.mn.uio.no/ibv/english/]</homepageURL>
+    <primaryContactName>GBIF Norway</primaryContactName>
+    <primaryContactEmail>helpdesk@gbif.no</primaryContactEmail>
+    <primaryContactPhone>+47 22 85 56 00</primaryContactPhone>
+    <password>cZW9JiubkrgvmbrpqelFPg==</password>
+    <alias>UiO Department of Biosciences</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>74331676-6384-4da7-8e92-11001735db6a</key>
+    <description>Nordre Øyeren Bird Observatory (Nordre Øyeren fuglestasjon; NØF) was founded in 1974. Bird registrations and ringing activity done by NØF members prior to this revealed important biological values in the area, which led to the establishment of Nordre Øyeren nature reserve in 1975 and its recognition as a Ramsar site in 1985. Today NØF focuses on standardized registrations of wetland birds during spring and autumn migration, and maintains a dataset of more than 40 year continuous observations, dating back to the mid-1970s. Data from NØF&apos;s waterfowl and wader counts, as well as common field registrations are now digitized and published.</description>
+    <name>Nordre Øyeren Bird Observatory</name>
+    <homepageURL>[http://www.noef.no/]</homepageURL>
+    <primaryContactName>Thomas Sæther</primaryContactName>
+    <primaryContactEmail>noef@noef.no</primaryContactEmail>
+    <primaryContactPhone>+47-91325773</primaryContactPhone>
+    <password>ngS3iw0uh4SOKrW7qCIEFA==</password>
+    <alias>Nordre Øyeren fuglestasjon</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>80e15a76-70e8-417d-9111-b2e9e0dd8f18</key>
+    <description>Consultancy firm focusing on ecology research in Norway.</description>
+    <name>Rådgivende Biologer</name>
+    <homepageURL>[http://www.radgivende-biologer.no/]</homepageURL>
+    <primaryContactName>Geir Helge Johnsen</primaryContactName>
+    <primaryContactEmail>post@radgivende-biologer.no</primaryContactEmail>
+    <primaryContactPhone>+47-97 10 59 10</primaryContactPhone>
+    <password>47EIm9cTQ58xLiDZrFxiww==</password>
+    <alias>Rådgivende Biologer</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>819352ad-c630-44e6-9356-d2c7aaf9866d</key>
+    <description>The Norwegian Institute of Bioeconomy Research (NIBIO) was established 1 July 2015 and is one of Norway’s largest research institutes. NIBIO is owned by the Ministry of Agriculture and Food and is a merger between the Norwegian Institute for Agricultural and Environmental Research (Bioforsk), the Norwegian Agricultural Economics Research Institute (NILF) and the Norwegian Forestry and Landscape Institute (Skog og landskap).</description>
+    <name>Norwegian Institute of Bioeconomy Research</name>
+    <homepageURL>[http://nibio.no/]</homepageURL>
+    <primaryContactName>Christian Svindseth</primaryContactName>
+    <primaryContactEmail>gbif-drift@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-22851618</primaryContactPhone>
+    <password>0XbDw1Fkud8Ucu0dNaqcvw==</password>
+    <alias>Norwegian Institute of Bioeconomy Research</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>8256e897-3a17-4a2d-8bf8-54cf22b624bd</key>
+    <description>The Norwegian University of Life Sciences (Norwegian: Norges miljø- og biovitenskapelige universitet, NMBU) is a public university with around 5100 students and 1700 employees. The main campus is located at Ås in Akershus, Norway. The Department of Ecology and Natural Resource Management (NMBU-INA) is responsible for education, research and information with focus on fundamental biology and ecology, natural resource management and forest science.
+
+GRBio identifier: http://grbio.org/cool/vq83-bmwz</description>
+    <name>Norwegian University of Life Sciences (NMBU), Faculty of Environmental Sciences and Natural Resource Management</name>
+    <homepageURL>[http://www.nmbu.no/en/about-nmbu/faculties/miljotek/departments/ina]</homepageURL>
+    <primaryContactType>administrative</primaryContactType>
+    <primaryContactName>Ågot Aakra</primaryContactName>
+    <primaryContactEmail>agot.aakra@nmbu.no</primaryContactEmail>
+    <password>tWpMSmqrzJE=</password>
+    <alias>Norwegian University of Life Sciences (NMBU), Dept of Ecology and Natural Resource Management (INA)</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>826d1920-7f5c-4091-a84e-668aa2e35b61</key>
+    <description>Agder Natural History Museum and Botanical Garden (Norwegian :Agder naturmuseum og botaniske hage, formerly Kristiansand Museum) is the only natural history museum on the Southern Coast of Norway, located in Kristiansand in Vest-Agder County. The museum was founded in 1828 as part of Kristiansand Katedralskole, named Kristiansand Museum.</description>
+    <name>Agder Museum of Natural History and Botanical Garden</name>
+    <homepageURL>[http://www.uia.no/eksterne-nettsider/naturmuseum]</homepageURL>
+    <primaryContactName>Per Arvid Åsen</primaryContactName>
+    <primaryContactEmail>gbif-drift@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-38058620</primaryContactPhone>
+    <password>C+MwU2GyGZkWHu8RDH0DHA==</password>
+    <alias>Agder Museum of Natural History and Botanical Garden</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>8cf21d03-4799-4fd5-99a4-b9836de4ec37</key>
+    <description>The Norwegian College of Fishery Science is the professional unit at UiT – the Arctic University of Norway which is responsible for research and education directed at both the Norwegian and the international fishery and aquaculture industry. The NCFS was founded in 1972 and is currently the leading competence institution for fishery and aquaculture in Norway.</description>
+    <name>Norwegian College of Fishery Science</name>
+    <homepageURL>[https://en.uit.no/om/enhet/forsiden?p_dimension_id=88166]</homepageURL>
+    <primaryContactType>technical</primaryContactType>
+    <primaryContactName>GBIF Norway</primaryContactName>
+    <primaryContactEmail>helpdesk@gbif.no</primaryContactEmail>
+    <password>x9b/AacHEJ+HRIXS4FvEYg==</password>
+    <alias>Norwegian College of Fishery Science</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>99c6eaae-f15b-4656-a600-d0c50044962e</key>
+    <description>Naturrestaurering AS is a team of ecologists with the country&apos;s highest education and expertise in the professional field required to conduct successful restoration of Norwegian nature. We assist business and government with planning, practical implementation and monitoring of nature restoration projects.</description>
+    <name>Naturrestaurering</name>
+    <homepageURL>[http://naturrestaurering.no/]</homepageURL>
+    <password>B/JJw3BI6ci6BW1G+1YuBg==</password>
+    <alias>Naturrestaurering</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>9e8e7946-cd17-4c58-81c1-dc8bef359360</key>
+    <description>Midt-Troms Museum is responsible for the museum operation in the nine municipalities in the central Troms region; Balsfjord, Bardu, Berg, Dyrøy, Lenvik, Målselv, Sørreisa, Torsken and Tranøy in the county Troms in Norway.
+
+The museum&apos;s main task is to collect, preserve and disseminate knowledge about the collective social memory, objects and museum artefacts in Central Troms. We aim to be a showcase of cultural history, natural history and development related to fishing and aquaculture, forestry, agriculture, petroleum, ore, mineral resources and defense history.
+ 
+The Natural History theme of Midt-Troms Museum is presented at Balsfjord Fjordmuseum og våtmarksenter (Balsfjord Fjord Museum and Wetland Centre) with information about sanctuaries, geology, large carnivores, birds and bird drawing, flora, spiders and insects. We have insect and spider collections and stuffed animals and birds, including wolves, bears, wolverines and lynx. We have also eagles, owls, gulls, waders, ducks and various passerines. In a small saltwater aquarium we display animals and algae that live in the shoreline.
+
+Balsfjord Fjord Museum and Wetlands Centre is located at Storsteinnes in Balsfjord municipality, with the Ramsar area Sørkjosleira as its nearest neighbor. The museum has a permanent exhibition about Balsfjord wetland system (Sørkjosleira and Kobbevågen). Our proximity to Sørkjosleira makes us a nice locality to observe bird life on the shoreline all year.</description>
+    <name>Balsfjord Fjordmuseum og våtmarksenter, Midt-Troms Museum</name>
+    <homepageURL>[http://mtmu.no/museer/temamuseer/balsfjord-fjordmuseum/]</homepageURL>
+    <primaryContactName>Kjetil Åkra</primaryContactName>
+    <primaryContactEmail>kjetil.aakra@mtmu.no</primaryContactEmail>
+    <primaryContactPhone>+47-479 24 077</primaryContactPhone>
+    <password>RC6NQ4a5yFI=</password>
+    <alias>Balsfjord Fjordmuseum og våtmarksenter, Midt-Troms Museum</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>a030b53d-7ab0-41dc-8ca7-77f65d5c8157</key>
+    <description>Helgeland Museum contains 17 different museums, in 16 municipalities, all the way from the high mountains to the deep fjords. The museums represent a wide range of Village Green collections, which describes the environments of the working people and their way of living, hundreds of years ago. The natural history department of the museum is located in Mo i Rana.</description>
+    <name>Helgeland Museum</name>
+    <homepageURL>[http://helgelandmuseum.no]</homepageURL>
+    <primaryContactName>Christian Svindseth</primaryContactName>
+    <primaryContactEmail>christian.svindseth@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-22851618</primaryContactPhone>
+    <password>AXz5FPSgzoU=</password>
+    <alias>Helgeland Museum</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>a1648ebf-7363-4c27-beb0-23271087220f</key>
+    <description>NNI is an environmental consult and research company, established in 1995 in Bergen, Western Norway. NNI works with a wide array of environmental issues, e.g. basic mapping of biodiversity in both terrestrial, freshwater and marine ecosystems, Environmental Impact Assessment studies (EIA&apos;s), populations studies and wildlife research and other consulting services. NNI employs biologists and ecologists with an university background (Masters and Phd)</description>
+    <name>NNI</name>
+    <homepageURL>[http://nni.no/]</homepageURL>
+    <primaryContactName>Arnold Håland</primaryContactName>
+    <primaryContactEmail>arnold@nni.no</primaryContactEmail>
+    <primaryContactPhone>+47-55177710</primaryContactPhone>
+    <password>8A3sZu6+8kJICjQ8i5UthA==</password>
+    <alias>NNI</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>a3c228d0-3110-11db-abb8-b8a03c50a862</key>
+    <description>http://www.bioversityinternational.org/</description>
+    <name>Bioversity International</name>
+    <homepageURL>[http://www.bioversityinternational.org/]</homepageURL>
+    <primaryContactName>Elizabeth Arnaud</primaryContactName>
+    <primaryContactAddress>Parc Scientifique Agropolis II 1990, boulevard de La Lironde</primaryContactAddress>
+    <primaryContactEmail>e.arnaud@cgiar.org</primaryContactEmail>
+    <primaryContactPhone>+33 46 7611302</primaryContactPhone>
+    <password>CPZb0LkSXgiyKxJRNjgmyg==</password>
+    <alias>Bioversity International</alias>
+    <nodeKey>b8a5be24-9225-4ba5-b664-159308a4b537</nodeKey>
+    <nodeName>Bioversity International</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>a41046bd-eaca-49bf-919b-419062ffc2a2</key>
+    <description>Biology and nature management consultancy.</description>
+    <name>Biolog J.B. Jordal AS</name>
+    <homepageURL>[http://www.jbjordal.no/]</homepageURL>
+    <primaryContactName>John Bjarne Jordal</primaryContactName>
+    <primaryContactEmail>gbif-drift@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-91364212</primaryContactPhone>
+    <password>DGi0riAfaFHBzkD1kjD5bQ==</password>
+    <alias>Biolog J.B. Jordal AS</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>a8144f37-5ff7-4137-9400-94b5b2ea4ec4</key>
+    <description>The NTNU University Museum is one of six university museums in Norway and is a part of the Norwegian University of Science and Technology, NTNU. The Museum is located at Kalvskinnet in the centre of Trondheim, along with its exhibitions, collections, administration and three of its sections. The Archaeometry Section is located at the Gløshaugen campus of NTNU. Ringve Botanical Gardens can be found at Lade, on the outskirts of Trondheim, and the Kongsvoll Alpine Garden is found in Kongsvoll, in Dovrefjell National Park. 
+The NTNU University Museum has its origins in the Royal Norwegian Society of Sciences and Letters (DKNVS), founded in 1760. In 1926, the Society was reorganized into two sections: the Academy and the Museum. In 1968, the Norwegian Parliament approved a resolution to found the University of Trondheim and the Museum was transferred to the University on 1 April 1984. Further reorganization of the University led to the establishment of the Norwegian University of Science and Technology (NTNU) on 1 January 1996. Since 2005, the NTNU University Museum has been treated at the same level as the University faculties, with representation on the Council of Deans and the Central University Research Committee.</description>
+    <name>NTNU University Museum</name>
+    <homepageURL>[http://www.ntnu.edu/museum]</homepageURL>
+    <primaryContactType>technical</primaryContactType>
+    <primaryContactName>Roger W. J. Alterskjær</primaryContactName>
+    <primaryContactEmail>roger.alterskjaer@ntnu.no</primaryContactEmail>
+    <password>hXHCe8VILi4=</password>
+    <alias>NTNU University Museum</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>b2c1126d-e3b4-4619-9f94-b236dcc0a947</key>
+    <description>BioFokus is a non-profit organization for providing biodiversity survey information on biological diversity to decition makers and the public in Norway.</description>
+    <name>BioFokus</name>
+    <homepageURL>[]</homepageURL>
+    <primaryContactName>Terje Blindheim</primaryContactName>
+    <primaryContactEmail>terje@biofokus.no</primaryContactEmail>
+    <primaryContactPhone>+47-99550257</primaryContactPhone>
+    <password>r3+6RM9KNbM=</password>
+    <alias>BioFokus</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>b9c5f740-34d9-11de-baf5-e00d96b185ef</key>
+    <description>http://www.nordgen.org/english/index.htm</description>
+    <name>Nordic Genetic Resource Center (NORDGEN)</name>
+    <homepageURL>[http://www.nordgen.org/english/index.htm]</homepageURL>
+    <primaryContactType>administrative</primaryContactType>
+    <primaryContactName>Dag Terje Endresen</primaryContactName>
+    <primaryContactEmail>dag.endresen@nordgen.org</primaryContactEmail>
+    <primaryContactPhone>+46-40536654</primaryContactPhone>
+    <password>WIUegfdH1RYOHwI1r8I3dg==</password>
+    <alias>Nordic Genetic Resource Center (NORDGEN)</alias>
+    <nodeKey>fa6bdac4-51e2-4334-940c-ba6cdf6e1257</nodeKey>
+    <nodeName>Nordic Genetic Resource Centre</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>c4444b2c-6b07-40c2-8474-6556a195cd40</key>
+    <description>One of the larger European engineering consultancy companies, active in the fields of construction, architecture, and environmental engineering.</description>
+    <name>SWECO Norge AS</name>
+    <homepageURL>[http://www.sweco.no/]</homepageURL>
+    <primaryContactName>- SWECO</primaryContactName>
+    <primaryContactEmail>post@sweco.no</primaryContactEmail>
+    <primaryContactPhone>+47-67 12 80 00</primaryContactPhone>
+    <password>f5Sc2OCj5D9QKuyZXG5dbw==</password>
+    <alias>SWECO Norge AS</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>d3978a37-635a-4ae3-bb85-7b4d41bc0b88</key>
+    <description>Publishing datasets from governmental organizations and Citizen Science observations services.</description>
+    <name>The Norwegian Biodiversity Information Centre (NBIC)</name>
+    <homepageURL>[http://www.artsdatabanken.no]</homepageURL>
+    <primaryContactType>administrative</primaryContactType>
+    <primaryContactName>Nils Valland</primaryContactName>
+    <primaryContactAddress>Havnegata 9, Trondheim, Norway</primaryContactAddress>
+    <primaryContactEmail>postmottak@artsdatabanken.no</primaryContactEmail>
+    <primaryContactPhone>+47 924 12 037</primaryContactPhone>
+    <password>N8eNW/TOYwDkQFVw5xX2Aw==</password>
+    <alias>The Norwegian Biodiversity Information Centre (NBIC)</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+  </organisation>
+  <organisation>
+    <key>d98d7029-8cb7-44c2-88af-52988adc3a62</key>
+    <description>Faun Naturforvaltning AS performs assignments in the field of nature mapping, monitoring and assessment of ecological status and biodiversity.</description>
+    <name>Faun Naturforvaltning AS</name>
+    <homepageURL>[http://fnat.no/]</homepageURL>
+    <primaryContactName>Helge Kiland</primaryContactName>
+    <primaryContactEmail>helge.kiland@fnat.no</primaryContactEmail>
+    <primaryContactPhone>+47-91632615</primaryContactPhone>
+    <password>Dvpbm1jkPnQ=</password>
+    <alias>Faun Naturforvaltning AS</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>e0d2ac6c-6f05-474d-bd50-1c5ab6614498</key>
+    <description>The Department of Geosciences was formed in 2003 as a merger between the three earth sciences departments: the Geology Department, the Department of Physical Geography and the Department of Geophysics. The merger resulted in the widest ranging earth sciences department in Norway, covering a wide range of disciplines from deep mantle processes to atmospheric sciences.</description>
+    <name>UiO Department of Geosciences</name>
+    <homepageURL>[http://www.mn.uio.no/geo/]</homepageURL>
+    <primaryContactName>Silvia Hess</primaryContactName>
+    <primaryContactEmail>geosciences@geo.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-22 85 66 56</primaryContactPhone>
+    <password>Mg4QJW5iwLKdLHDjkx9a+A==</password>
+    <alias>UiO Department of Geosciences</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>ecc5cd9e-2d25-4b8d-89c8-a0711eee813b</key>
+    <description>Museum Stavanger (MUST) is a unique combination of museums. MUST is the only museum in Norway that covers such a wide variety of disciplines as art, natural history, cultural history and maritime and industrial history. 
+
+Must has stewardship of over 200,000 works of art and cultural and natural-historical objects. Selections of these can be experienced in exciting exhibitions and events at MUST’s eleven museums. Several museums are in buildings and parks with cultural-historical value. MUST also has responsibility for two floating vessels, Wyvern and Anna av Sand, as well as Revtangen Ornithological Station. In addition, it administers the Ringing Centre, which organises all scientific bird ringing in Norway.</description>
+    <name>Museum Stavanger</name>
+    <homepageURL>[http://museumstavanger.no/]</homepageURL>
+    <primaryContactName>Alf Tore Mjøs</primaryContactName>
+    <primaryContactEmail>alf.tore.mjoes@museumstavanger.no</primaryContactEmail>
+    <primaryContactPhone>+47-407 28 536</primaryContactPhone>
+    <password>bU7l4nDw9tf100xTH2k07g==</password>
+    <alias>Museum Stavanger</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>f2429cd1-4d45-475c-852a-892024cb4aba</key>
+    <description>ARC is a private consulting firm. We collect biodiversity data in Norway and in Svalbard.</description>
+    <name>ARC - Arctic Research and Consulting DA</name>
+    <homepageURL>[http://www.arc-da.no]</homepageURL>
+    <primaryContactName>Vidar Bakken</primaryContactName>
+    <primaryContactEmail>bakken2@online.no</primaryContactEmail>
+    <primaryContactPhone>+47-45436546</primaryContactPhone>
+    <password>lVRQ+BRauNQ6g9fCuoiSoQ==</password>
+    <alias>ARC - Arctic Research and Consulting DA</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>f314b0b0-e3dc-11d9-8d81-b8a03c50a862</key>
+    <description>http://www.nhm.uio.no</description>
+    <name>Natural History Museum, University of Oslo</name>
+    <homepageURL>[http://www.nhm.uio.no]</homepageURL>
+    <primaryContactType>technical</primaryContactType>
+    <primaryContactName>Node staff</primaryContactName>
+    <primaryContactEmail>helpdesk@gbif.no</primaryContactEmail>
+    <password>54U9T/9fvyV8Cqk3fyU64Q==</password>
+    <alias>Natural History Museum, University of Oslo</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+  </organisation>
+  <organisation>
+    <key>f7992997-0846-47af-8bc2-2aa271d74a3a</key>
+    <description>The Museum of Archaeology in Stavanger follows a profile of environmental archaeology and interdisciplinary study, with a scientific staff that includes representatives from archaeology, the natural sciences and modern cultural history.</description>
+    <name>The Museum of Archaeology in Stavanger</name>
+    <homepageURL>[http://am.uis.no]</homepageURL>
+    <primaryContactName>Christian Svindseth</primaryContactName>
+    <primaryContactEmail>christian.svindseth@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-22851618</primaryContactPhone>
+    <password>EVYt/N6apVeaSUClYO3Dkg==</password>
+    <alias>The Museum of Archaeology in Stavanger</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>f92082e0-fb4f-4881-b3af-b3048610909a</key>
+    <description>The Department of Biology is Norway&apos;s largest academic environment within Marine Biology and conducts research across a diversity of themes including marine microbiology, marine ecology, fisheries ecology, marine biodiversity, developmental biology of fish, aquaculture, fish health and quality of seafood.</description>
+    <name>University of Bergen - Department of Biology</name>
+    <homepageURL>[]</homepageURL>
+    <primaryContactName>John-Arvid Grytnes</primaryContactName>
+    <primaryContactEmail>Jon.Grytnes@uib.no</primaryContactEmail>
+    <primaryContactPhone>+47-55588128</primaryContactPhone>
+    <password>uXAfKaPx0Yuph0vkeQ/MAA==</password>
+    <alias>University of Bergen - Department of Biology</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>fac91b96-c087-460f-ab01-b808f341c2f5</key>
+    <description>Ecofact publishes data in GBIF through the Norwegian GBIF Participant Node at:
+http://www.gbif.org/dataset/d7e36e03-340d-4cba-904c-a2a3e662d3cd
+http://doi.org/10.15468/k88vjq
+On behalf of the GBIF-node we wish to register Ecofact as the data publisher to assign correct credits to Ecofact in the GBIF portal.
+Best wishes
+Dag Endresen, node manager</description>
+    <name>Ecofact</name>
+    <homepageURL>[http://www.ecofact.no/]</homepageURL>
+    <primaryContactName>Geir Arnesen</primaryContactName>
+    <primaryContactEmail>gbif-drift@nhm.uio.no</primaryContactEmail>
+    <primaryContactPhone>+47-91700155</primaryContactPhone>
+    <password>RX4yaBp+K96IO1k1rDGLyQ==</password>
+    <alias>Ecofact</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
+    <key>fee3882f-5360-4f01-a1ca-767c48fa629c</key>
+    <description>El Centro Internacional de Agricultura Tropical (CIAT) tiene como misión reducir el hambre y la pobreza y mejorar la salud humana en los trópicos mediante una investigación que aumente la eco-eficiencia de la agricultura. El CIAT tiene una responsabilidad mundial el mejoramiento de dos cultivos alimenticios de primera necesidad, la yuca y el fríjol, al igual que los forrajes tropicales para la ganadería. En América Latina y el Caribe, también lleva a cabo investigación sobre arroz. Dentro de varios grupos de alimentos y de una amplia franja de la biodiversidad agrícola mundial, estos cultivos son de vital importancia para la seguridad alimentaria y nutricional del planeta. Los científicos del CIAT trabajan en América Latina y el Caribe así como en 28 países de África y 5 de Asia Suroriental. El Centro tiene su sede principal cerca a Cali, Colombia, con oficinas regionales en Nairobi, Kenia, y Hanti, Vietnam.</description>
+    <name>Centro Internacional de Agricultura Tropical (CIAT)</name>
+    <homepageURL>[http://ciat.cgiar.org/]</homepageURL>
+    <primaryContactType>administrative</primaryContactType>
+    <primaryContactName>Soroush Parsa</primaryContactName>
+    <primaryContactAddress>Km 17 Recta Cali-Palmira</primaryContactAddress>
+    <primaryContactEmail>S.Parsa@cgiar.org</primaryContactEmail>
+    <primaryContactPhone>(57) 2 4450000</primaryContactPhone>
+    <password>fdKnR4y5r6q+r7PYmucKQg==</password>
+    <alias>Centro Internacional de Agricultura Tropical (CIAT)</alias>
+    <nodeKey>7e865cba-7c46-417b-ade5-97f2cf5b7be0</nodeKey>
+    <nodeName>Colombian Biodiversity Information System</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+</registration>

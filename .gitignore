@@ -1,4 +1,4 @@
-data-directory/resources
-data-directory/logs
+data-directory/resources/*
+data-directory/logs/*
 data-directory/tmp
 data-directory/config/.vocabularies

@@ -6,12 +6,16 @@ services:
     image: gbif/ipt:2.4.0
     entrypoint: /srv/ipt/docker-entrypoint.sh
     expose:
-      - '8080'
+      - 8080
     volumes:
       - ./data-directory:/srv/ipt
     environment:
       - VIRTUAL_HOST=ipt.gbif.no
       - LETSENCRYPT_HOST=ipt.gbif.no
+    logging:
+      driver: json-file
+      options:
+        max-size: 64m
 
 networks:
   default:
